@@ -10,7 +10,7 @@
 
 下面列出了我常用的编程语言和平台：
 
-[![Static Badge](https://img.shields.io/badge/Python-m?style=flat-square&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)](//python.org)[![Static Badge](https://img.shields.io/badge/Git-m?style=flat-square&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)](//git-scm.com)[![Static Badge](https://img.shields.io/badge/Node.js-m?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=%235FA04E&color=%235FA04E)](//nodejs.org)[![Static Badge](https://img.shields.io/badge/HTML-m?style=flat-square&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)](//html.spec.whatwg.org)[![Static Badge](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white&labelColor=black&color=black)](https://www.markdown.cn/)[![Static Badge](https://img.shields.io/badge/GitHub-m?style=flat-square&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)](//github.com/Karlbaey101)
+[![Static Badge](https://img.shields.io/badge/Python-m?style=flat-square&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)](//python.org) [![Static Badge](https://img.shields.io/badge/Git-m?style=flat-square&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)](//git-scm.com) [![Static Badge](https://img.shields.io/badge/Node.js-m?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=%235FA04E&color=%235FA04E)](//nodejs.org) [![Static Badge](https://img.shields.io/badge/HTML-m?style=flat-square&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)](//html.spec.whatwg.org) [![Static Badge](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white&labelColor=black&color=black)](https://www.markdown.cn/) [![Static Badge](https://img.shields.io/badge/GitHub-m?style=flat-square&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)](//github.com/Karlbaey101)
 
 ### 📕**最近在读**
 
@@ -24,7 +24,7 @@
 
 ## 🥇个人项目
 
-![image-20250404000701866](C:\Users\陈\AppData\Roaming\Typora\typora-user-images\image-20250404000701866.png)
+![image-20250404000701866](https://github.com/Karlbaey101/Karlbaey101/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20000357.png)
 
 ~~是的，现在只有这个 Repo 拿得出手。~~
 
@@ -79,6 +79,6 @@
 
 以下两种联系方式都很欢迎！或者你也可以发送至这个邮箱：<a href="mailto:inbox@karlbaey.top">inbox@karlbaey.top</a>
 
-[![Static Badge](https://img.shields.io/badge/BLOG-m?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=%230288D1&color=%230288D1)](//karlbaey.top)[![Static Badge](https://img.shields.io/badge/EMAIL-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:karlbaey101@outlook.com)
+[![Static Badge](https://img.shields.io/badge/BLOG-m?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=%230288D1&color=%230288D1)](//karlbaey.top) [![Static Badge](https://img.shields.io/badge/EMAIL-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:karlbaey101@outlook.com)
 
 
