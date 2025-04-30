@@ -2,6 +2,8 @@
 
 ## 📋个人简介
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E64F7&width=435&lines=Hello!+I'm+Karlbaey!;Welcome+to+my+personal+profile!)](https://git.io/typing-svg)
+
 **✍一个喜欢写写小作品的人**
 
 按我跳转 --> [博客](//karlbaey.top)
@@ -24,9 +26,10 @@
 
 ## 🥇个人项目
 
-![image-20250404000701866](https://github.com/Karlbaey101/Karlbaey101/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20000357.png)
+![Stats](https://github-readme-stats.vercel.app/api?username=karlbaey101&show_icons=true&theme=tokyonight)![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=karlbaey101&layout=compact)
 
-~~是的，现在只有这个 Repo 拿得出手。~~
+![contr](https://github-readme-activity-graph.vercel.app/graph?username=Karlbaey101&theme=react-dark)
+
 
 ## 🛎️个人服务
 
@@ -80,5 +83,4 @@
 以下两种联系方式都很欢迎！或者你也可以发送至这个邮箱：<a href="mailto:inbox@karlbaey.top">inbox@karlbaey.top</a>
 
 [![Static Badge](https://img.shields.io/badge/BLOG-m?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=%230288D1&color=%230288D1)](//karlbaey.top) [![Static Badge](https://img.shields.io/badge/EMAIL-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:karlbaey101@outlook.com)
-
 
