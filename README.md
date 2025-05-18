@@ -24,6 +24,10 @@
 - 摆弄 php 和 python
 - 学习 HTML、CSS 和 JavaScript 三兄弟
 
+## 😋贡献
+
+<picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karlbaey101/karlbaey101/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karlbaey101/karlbaey101/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karlbaey101/karlbaey101/output/github-contribution-grid-snake.svg"> </picture>
+
 ## 🥇个人项目
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=karlbaey101&show_icons=true&theme=tokyonight)![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=karlbaey101&layout=compact)
