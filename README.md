@@ -8,15 +8,7 @@
 
 按我跳转 --> [博客](//karlbaey.top)
 
-📕 &nbsp;***\*Latest Blog Posts\****
-
-<!-- BLOG-POST-LIST:START -->
-- [公告板](https://karlbaey.top/articles/ANNOUNCEMENT/)
-- [Nothing Dawn](https://karlbaey.top/articles/nothing-dawn/)
-- [五月二十五日记](https://karlbaey.top/articles/May-25th/)
-- [一道物理小题](https://karlbaey.top/articles/a-simple-phys-problem/)
-- [「新」动计划 · 编程入门 题面与答案解释](https://karlbaey.top/articles/Primers-list/)
-<!-- BLOG-POST-LIST:END -->
+## 关于我
 
 通常以 [@Karlbaey101](//github.com/karlbaey101) 的身份活跃在 [GitHub](//github.com)，也喜欢在哔哩哔哩以 [@Karlbaey](https://space.bilibili.com/383959860) 的身份活跃，有时你也能在各大社交平台看见我，甚至有可能是 Hypixel 服务器。
 
@@ -33,6 +25,12 @@
 - 更新[个人博客](//karlbaey.top)
 - 摆弄 php 和 python
 - 学习 HTML、CSS 和 JavaScript 三兄弟
+
+## 📕Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START --> 
+
+<!-- BLOG-POST-LIST:END -->
 
 ## 😋贡献
 
