@@ -29,11 +29,11 @@
 ## 📕Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neko回忆录 Ⅰ](https://karlbaey.top/articles/dear-neko-i/)
 - [公告板](https://karlbaey.top/articles/ANNOUNCEMENT/)
 - [Nothing Dawn](https://karlbaey.top/articles/nothing-dawn/)
 - [五月二十五日记](https://karlbaey.top/articles/May-25th/)
 - [一道物理小题](https://karlbaey.top/articles/a-simple-phys-problem/)
-- [「新」动计划 · 编程入门 题面与答案解释](https://karlbaey.top/articles/Primers-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😋贡献
