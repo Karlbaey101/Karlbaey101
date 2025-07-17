@@ -10,7 +10,7 @@
 
 ## 关于我
 
-通常以 [@Karlbaey101](//github.com/karlbaey101) 的身份活跃在 [GitHub](//github.com)，也喜欢在哔哩哔哩以 [@Karlbaey](https://space.bilibili.com/383959860) 的身份活跃，有时你也能在各大社交平台看见我，甚至有可能是 Hypixel 服务器。
+通常以 [@Karlbaey](//github.com/karlbaey) 的身份活跃在 [GitHub](//github.com)，也喜欢在哔哩哔哩以 [@Karlbaey](https://space.bilibili.com/383959860) 的身份活跃，有时你也能在各大社交平台看见我，甚至有可能是 Hypixel 服务器。
 
 下面列出了我常用的编程语言和平台：
 
